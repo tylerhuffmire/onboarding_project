@@ -72,9 +72,10 @@ $$\text{Score} = \frac{\text{Minimum Distance From Walls (m)}}{\text{Time (s)}}$
 <!-- The leaderboard below is automatically generated. Do not edit manually. -->
 | Rank | Name | Minimum distance from walls (m) | Best time (s) | GitHub | Video Link |
 |------|------|------------------|----------------|---------|----------|
-| 1 | Ole Warndahl | 2.83 | 26.7 | [repo](https://github.com/warndahlo/onboarding_project) | [video](https://youtu.be/Z7cgAcRzzUU?si=VBFusDM3DtBzlxsN) |
-| 2 | Cosmo | 2.5 | 44.5 | [repo](https://github.com/byu-magicc/onboarding_project) | [video](https://youtu.be/GJZMzQYB5zI) |
-| 3 | Oihzac | 2.3 | 55.0 | [repo](https://github.com/Oihzac/onboarding_project) | [video](https://youtu.be/nciE9TyrIzU) |
-| 4 | Preston Nielson | 1.22 | 143.2 | [repo](https://github.com/PrestonTNielson/Prestons_onboarding_project) | [video](https://www.youtube.com/watch?v=EFsVFm7LLr0) |
+| 1 | Andrew Faucette | 2.92 | 26.6 | [repo](https://github.com/AndrewFaucette/rosflight_onboarding_project.git) | [video](https://youtu.be/vrtuvm02nmI) |
+| 2 | Ole Warndahl | 2.83 | 26.7 | [repo](https://github.com/warndahlo/onboarding_project) | [video](https://youtu.be/Z7cgAcRzzUU?si=VBFusDM3DtBzlxsN) |
+| 3 | Cosmo | 2.5 | 44.5 | [repo](https://github.com/byu-magicc/onboarding_project) | [video](https://youtu.be/GJZMzQYB5zI) |
+| 4 | Oihzac | 2.3 | 55.0 | [repo](https://github.com/Oihzac/onboarding_project) | [video](https://youtu.be/nciE9TyrIzU) |
+| 5 | Preston Nielson | 1.22 | 143.2 | [repo](https://github.com/PrestonTNielson/Prestons_onboarding_project) | [video](https://www.youtube.com/watch?v=EFsVFm7LLr0) |
 
 <!-- LEADERBOARD:END -->
